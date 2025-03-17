@@ -18,3 +18,8 @@ void printHelloWorld()
 {
     Console.WriteLine("Hello, World!");
 }
+
+void anotherMethod()
+{
+    return;
+}
