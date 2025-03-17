@@ -6,7 +6,7 @@ bar();
 
 void foo()
 {
-    Console.WriteLine("This is foo");
+    Console.WriteLine("This is foo and it's great!");
 }
 
 void bar()
