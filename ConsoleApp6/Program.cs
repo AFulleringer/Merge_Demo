@@ -16,5 +16,5 @@ void bar()
 
 void printHelloWorld()
 {
-    Console.WriteLine("Hello, World!")
+    Console.WriteLine("Hello, World!");
 }
