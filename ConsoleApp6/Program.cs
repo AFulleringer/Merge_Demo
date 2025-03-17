@@ -4,6 +4,11 @@ Console.WriteLine("Hello, World!");
 bar();
 //A comment!
 
+void foo()
+{
+    Console.WriteLine("This is foo and it's great!");
+}
+
 
 
 void bar()
