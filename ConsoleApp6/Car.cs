@@ -21,6 +21,7 @@ namespace ConsoleApp6
             this.year = year;
         }
 
+        //default constructor
         public Car()
         {
             this.make = "Honda";
