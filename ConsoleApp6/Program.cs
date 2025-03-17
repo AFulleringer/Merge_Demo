@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-foo();
+
 bar();
 //A comment!
 
@@ -8,6 +8,8 @@ void foo()
 {
     Console.WriteLine("This is foo and it's great!");
 }
+
+
 
 void bar()
 {
