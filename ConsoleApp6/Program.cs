@@ -4,9 +4,9 @@ Console.WriteLine("Hello, World!");
 bar();
 //A comment!
 
-void foo()
+void printCurrentBranchName()
 {
-    Console.WriteLine("This is foo and it's great!");
+    Console.WriteLine("This is branch 1 and it's great!");
 }
 
 
