@@ -6,7 +6,9 @@ bar();
 
 void printCurrentBranchName()
 {
-    Console.WriteLine("This is The Branch that will Cause Problems and it's great!");
+
+  Console.WriteLine("Maybe this function isn't so good");
+
 }
 
 
